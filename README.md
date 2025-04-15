@@ -38,22 +38,22 @@ This is a simple social media platform built using Next.js. Users can post image
 
 ## Screenshots
 
-### - Home Page Without Login  
+### Home Page Without Login  
 ![Home Page Without Login](Screenshot/image.png)
 
-### - Home Page with User Authorized  
+### Home Page with User Authorized  
 ![Home Page with Login](Screenshot/image-2.png)
 
-### - Create Post  
+### Create Post  
 ![Create Post - Step 1](Screenshot/image-3.png)  
 ![Create Post - Step 2](Screenshot/image-4.png)
 
-### - Notifications Page (Light Mode)  
+### Notifications Page (Light Mode)  
 ![Notifications Page](Screenshot/image-8.png)
 
-### - Profile Page  
+### Profile Page  
 ![Profile Page - Posts](Screenshot/image-5.png)  
 ![Profile Page - Followers & Following](Screenshot/image-7.png)
 
-### - Update Profile  
+### Update Profile  
 ![Update Profile](Screenshot/image-6.png)
