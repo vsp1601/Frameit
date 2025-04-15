@@ -19,7 +19,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Socially",
+  title: "Frameit",
   description: "A modern app to connect",
 };
 
