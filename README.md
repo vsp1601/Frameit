@@ -31,6 +31,10 @@ This is a simple social media platform built using Next.js. Users can post image
 - When visiting other profiles:
   - View their posts and likes
   - Follow or unfollow them
+ 
+### Theme Support
+- Supports both **Dark Mode** and **Light Mode**.
+- Theme switches automatically based on user's system preference.
 
 ## Screenshots
 
