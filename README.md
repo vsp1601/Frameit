@@ -32,23 +32,24 @@ This is a simple social media platform built using Next.js. Users can post image
   - View their posts and likes
   - Follow or unfollow them
 
-### Screnshot
-- Home Page Without Login
-![alt text](image.png)
+## Screenshots
 
--Home Page with User authorized
-![alt text](image-2.png)
+### - Home Page Without Login  
+![Home Page Without Login](Screenshot/image.png)
 
--Create Post
-![alt text](image-3.png)
-![alt text](image-4.png)
+### - Home Page with User Authorized  
+![Home Page with Login](Screenshot/image-2.png)
 
--Notifications Page (Light Mode)
-![alt text](image-8.png)
+### - Create Post  
+![Create Post - Step 1](Screenshot/image-3.png)  
+![Create Post - Step 2](Screenshot/image-4.png)
 
--Profile Page
-![alt text](image-5.png)
-![alt text](image-7.png)
+### - Notifications Page (Light Mode)  
+![Notifications Page](Screenshot/image-8.png)
 
--Update Profile
-![alt text](image-6.png)
+### - Profile Page  
+![Profile Page - Posts](Screenshot/image-5.png)  
+![Profile Page - Followers & Following](Screenshot/image-7.png)
+
+### - Update Profile  
+![Update Profile](Screenshot/image-6.png)
